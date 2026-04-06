@@ -1,0 +1,8 @@
+# Ignore the target directory
+target/
+
+# Ignore npm dependencies
+node_modules/
+
+# Ignore Next.js metadata
+.next
